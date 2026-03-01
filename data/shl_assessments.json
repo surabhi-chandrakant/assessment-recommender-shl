@@ -1,0 +1,7184 @@
+[
+  {
+    "name": "Account Manager Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/account-manager-solution/",
+    "test_types": [
+      "C",
+      "P",
+      "A",
+      "B"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "Account Manager Solution : The Account Manager solution is an assessment used for job candidates applying to mid-level leadership positions that tend to manage the day-to-day operations…",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 49",
+    "duration_minutes": 49,
+    "test_type": "C"
+  },
+  {
+    "name": "Administrative Professional - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/administrative-professional-short-form/",
+    "test_types": [
+      "A",
+      "K",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "Administrative Professional - Short Form: The Administrative Professional solution is for entry to mid-level positions that involve routine clerical and administrative functions in addition to office…",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 36",
+    "duration_minutes": 36,
+    "test_type": "A"
+  },
+  {
+    "name": "Agency Manager Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/agency-manager-solution/",
+    "test_types": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "Agency Manager Solution: The Agency Manager solution is for mid-level sales management positions that include front line management and sales responsibilities. Sample tasks for this…",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 51",
+    "duration_minutes": 51,
+    "test_type": "A"
+  },
+  {
+    "name": "Apprentice + 8.0 Job Focused Assessment",
+    "url": "https://www.shl.com/products/product-catalog/view/apprentice-8-0-job-focused-assessment-4261/",
+    "test_types": [
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "Apprentice + 8.0 Job Focused Assessment: The Apprentice + 8.0 Job-Focused Assessment is a short, targeted, globally applicable assessment which includes a short cognitive ability measure. This…",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 30",
+    "duration_minutes": 30,
+    "test_type": "B"
+  },
+  {
+    "name": "Apprentice 8.0 Job Focused Assessment",
+    "url": "https://www.shl.com/products/product-catalog/view/apprentice-8-0-job-focused-assessment/",
+    "test_types": [
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "Apprentice 8.0 Job Focused Assessment: The Apprentice 8.0 Job-Focused Assessment is a short, targeted, globally applicable assessment. This assessment is designed for entry-level positions…",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 20",
+    "duration_minutes": 20,
+    "test_type": "B"
+  },
+  {
+    "name": "Bank Administrative Assistant - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/bank-administrative-assistant-short-form/",
+    "test_types": [
+      "A",
+      "B",
+      "K",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "Bank Administrative Assistant - Short Form: The Administrative Assistant solution is for entry-level clerical positions that interact with external or internal customers. Sample tasks for these jobs…",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 35",
+    "duration_minutes": 35,
+    "test_type": "A"
+  },
+  {
+    "name": "Bank Collections Agent - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/bank-collections-agent-short-form/",
+    "test_types": [
+      "A",
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "Bank Collections Agent - Short Form: This solution is for entry-level collections positions in an inbound or outbound call center environment in a financial setting. Candidates answer multiple…",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 45",
+    "duration_minutes": 45,
+    "test_type": "A"
+  },
+  {
+    "name": "Bank Operations Supervisor - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/bank-operations-supervisor-short-form/",
+    "test_types": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "Bank Operations Supervisor - Short Form: The Bank Operations Supervisor solution is for job candidates applying to entry-level leadership positions who tend to supervise hourly employees. Sample tasks…",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 45",
+    "duration_minutes": 45,
+    "test_type": "A"
+  },
+  {
+    "name": "Bilingual Spanish Reservation Agent Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/bilingual-spanish-reservation-agent-solution/",
+    "test_types": [
+      "B",
+      "P",
+      "S",
+      "A"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "Bilingual Spanish Reservation Agent Solution: The Bilingual Reservation Agent solution is designed for customer centered entry-level positions within the hospitality industry. Sample tasks may include…",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 43",
+    "duration_minutes": 43,
+    "test_type": "B"
+  },
+  {
+    "name": "Bookkeeping, Accounting, Auditing Clerk Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/bookkeeping-accounting-auditing-clerk-short-form/",
+    "test_types": [
+      "P",
+      "S",
+      "K",
+      "B",
+      "A"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "Bookkeeping, Accounting, Auditing Clerk Short Form: The Bookkeeping, Accounting, and Auditing Clerk solution is for entry-level positions that involve entering numerical data into computer systems and…",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 49",
+    "duration_minutes": 49,
+    "test_type": "P"
+  },
+  {
+    "name": "Branch Manager - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/branch-manager-short-form/",
+    "test_types": [
+      "A",
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "Branch Manager - Short Form: This solution is for mid to upper-level financial institution managerial positions. Candidates answer a series of multiple choice questions to measure…",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 50",
+    "duration_minutes": 50,
+    "test_type": "A"
+  },
+  {
+    "name": "Cashier Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/cashier-solution/",
+    "test_types": [
+      "B",
+      "A",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "Cashier Solution: The Cashier solution is for entry-level retail positions in which employees receive payment in the form of cash, check, or credit cards for goods purchased…",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 28",
+    "duration_minutes": 28,
+    "test_type": "B"
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/products/product-catalog/view/global-skills-development-report/",
+    "test_types": [],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": " Global Skills Development Report : This report is designed to be given to individuals who have completed the Global Skills Assessment (GSA). With coverage across the Great 8 Domains, this…",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "test_type": "A"
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/products/product-catalog/view/net-framework-4-5/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": ".NET Framework 4.5: The.NET Framework 4.5 test measures knowledge of .NET environment. Designed for experienced users, this test covers the following topics: Application…",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 30",
+    "duration_minutes": 30,
+    "test_type": "K"
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-mvc-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": ".NET MVC (New): Multi-choice test that measures the knowledge of Model-View-Controller (MVC) architecture, validation, security, routing, and areas.",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 17",
+    "duration_minutes": 17,
+    "test_type": "K"
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-mvvm-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": ".NET MVVM (New): Multi-choice test that measures the knowledge of MVVM pattern, scenarios, data validation, ViewModel communication and Quick-start.",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 5",
+    "duration_minutes": 5,
+    "test_type": "K"
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-wcf-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": ".NET WCF (New): Multi-choice test that measures the knowledge of .NET fundamentals, WCF architecture, programming model, SOA, managing and programming WCF.",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 11",
+    "duration_minutes": 11,
+    "test_type": "K"
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-wpf-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": ".NET WPF (New): Multi-choice test that measures the knowledge of .NET basics, WPF, XAML controls, events, layouts, working with WPF windows/menus and deploying WPF…",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 9",
+    "duration_minutes": 9,
+    "test_type": "K"
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-xaml-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": ".NET XAML (New): Multi-choice test that measures the knowledge of XAML triggers, data binding, custom controls and layouts.",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 5",
+    "duration_minutes": 5,
+    "test_type": "K"
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "Accounts Payable (New): Multiple-choice test that measures the knowledge of processing payables and vendor invoices, and the posting of journal entries.",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 9",
+    "duration_minutes": 9,
+    "test_type": "K"
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-simulation-new/",
+    "test_types": [
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "Accounts Payable Simulation (New): Simulated data entry test that measures the ability to process payables and vendor invoices.",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 8",
+    "duration_minutes": 8,
+    "test_type": "S"
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "Accounts Receivable (New): Multiple-choice test that measures the knowledge of processing receivables and invoices.",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 13",
+    "duration_minutes": 13,
+    "test_type": "K"
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "test_types": [
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "Accounts Receivable Simulation (New): Simulated data entry test that measures the ability to process receivables and invoices.",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 8",
+    "duration_minutes": 8,
+    "test_type": "S"
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ado-net-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "ADO.NET (New): Multi-choice test that measures the knowledge on the concepts of ADO.NET architecture, components and data provider objects.",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 10",
+    "duration_minutes": 10,
+    "test_type": "K"
+  },
+  {
+    "name": "Claims/Operations Supervisor Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/claimsoperations-supervisor-solution/",
+    "test_types": [
+      "P",
+      "S",
+      "A",
+      "B"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "Claims/Operations Supervisor Solution: The Claims/Operations Supervisor solution is for entry-level management positions that involve supervising hourly employees.  Sample tasks for this job…",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 48",
+    "duration_minutes": 48,
+    "test_type": "P"
+  },
+  {
+    "name": "Contact Center Customer Service + 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/contact-center-customer-service-8-0/",
+    "test_types": [
+      "A",
+      "B",
+      "C",
+      "P",
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "Contact Center Customer Service + 8.0: The Contact Center + 8.0 - Customer Service Job Focused Assessment is designed to measure the skills, competencies, and behaviors needed for success in contact…",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 41",
+    "duration_minutes": 41,
+    "test_type": "A"
+  },
+  {
+    "name": "Contact Center Customer Service 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/contact-center-customer-service-8-0-4269/",
+    "test_types": [
+      "S",
+      "B",
+      "C",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "Contact Center Customer Service 8.0  : The Customer Service 8.0 JFA is designed for entry-level positions in a contact center environment where the main focus is customer service.",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 31",
+    "duration_minutes": 31,
+    "test_type": "S"
+  },
+  {
+    "name": "Contact Center Manager - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/contact-center-manager-short-form/",
+    "test_types": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "Contact Center Manager - Short Form: The Contact Center - Manager solution is for mid to upper-level contact center managerial positions. Sample  tasks for these jobs include, but are not limited…",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 50",
+    "duration_minutes": 50,
+    "test_type": "A"
+  },
+  {
+    "name": "Contact Center Sales & Service + 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/contact-center-sales-and-service-8-0/",
+    "test_types": [
+      "P",
+      "B",
+      "C",
+      "A",
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "Contact Center Sales & Service + 8.0 : The Contact Center + 8.0 - Sales & Service Job Focused Assessment is designed to measure the skills, competencies, and behaviors needed for success in contact…",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 41",
+    "duration_minutes": 41,
+    "test_type": "P"
+  },
+  {
+    "name": "Contact Center Sales & Service 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/contact-center-sales-and-service-8-0-4268/",
+    "test_types": [
+      "S",
+      "B",
+      "C",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "Contact Center Sales & Service 8.0 : The Sales & Service 8.0 JFA is designed for contact center roles that involve sales or sales-related behaviors such as recommending products or services and…",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 31",
+    "duration_minutes": 31,
+    "test_type": "S"
+  },
+  {
+    "name": "Contact Center Team Lead/Coach - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/contact-center-team-leadcoach-short-form/",
+    "test_types": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "Contact Center Team Lead/Coach - Short Form: The Contact Center - Team Lead/Coach solution is for job candidates applying to entry-level leadership  positions who tend to supervise hourly employees…",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 45",
+    "duration_minutes": 45,
+    "test_type": "A"
+  },
+  {
+    "name": "Contact Centre Agent Solution - UK",
+    "url": "https://www.shl.com/products/product-catalog/view/contact-centre-agent-solution-uk/",
+    "test_types": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "Contact Centre Agent Solution - UK: This solution is used for job candidates applying to entry-level positions in a contact centre environment where the main focus of the job is customer service…",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 39",
+    "duration_minutes": 39,
+    "test_type": "A"
+  },
+  {
+    "name": "Customer Service - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/customer-service-short-form/",
+    "test_types": [
+      "A",
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "Customer Service - Short Form: The Customer Service Representative Solution is for entry-level positions that involve a high degree of interaction with customers in person or on the phone…",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 42",
+    "duration_minutes": 42,
+    "test_type": "A"
+  },
+  {
+    "name": "Customer Service - Short Form - UK",
+    "url": "https://www.shl.com/products/product-catalog/view/customer-service-short-form-uk/",
+    "test_types": [
+      "A",
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "Customer Service - Short Form - UK: The Customer Service Representative solution is for entry-level positions that involve  a high degree of interaction with customers in person or on the phone…",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 42",
+    "duration_minutes": 42,
+    "test_type": "A"
+  },
+  {
+    "name": "Customer Service with Sales - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/customer-service-with-sales-short-form/",
+    "test_types": [
+      "A",
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "Customer Service with Sales - Short Form: The Customer Service with Sales solution is for entry-level positions that involve both providing service and support to customers and selling goods and…",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 44",
+    "duration_minutes": 44,
+    "test_type": "A"
+  },
+  {
+    "name": "Director - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/director-short-form/",
+    "test_types": [
+      "A",
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "Director - Short Form: The Director solution is intended for use with senior level positions responsible for the planning, directing, or coordinating key business activities and…",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 69",
+    "duration_minutes": 69,
+    "test_type": "A"
+  },
+  {
+    "name": "Adobe Experience Manager (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/adobe-experience-manager-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "Adobe Experience Manager (New): Multi-choice test that measures the knowledge of AEM components, templates, workflows, AEM collections, OSGi services and troubleshooting of AEM projects.",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 17",
+    "duration_minutes": 17,
+    "test_type": "K"
+  },
+  {
+    "name": "Adobe Photoshop CC",
+    "url": "https://www.shl.com/products/product-catalog/view/adobe-photoshop-cc/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "Adobe Photoshop CC: The Adobe Photoshop CC test measures knowledge of Adobe Photoshop CC. Designed for experienced users, this test covers the following topics: 3D, Color, File…",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 20",
+    "duration_minutes": 20,
+    "test_type": "K"
+  },
+  {
+    "name": "Aeronautical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/aeronautical-engineering-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "Aeronautical Engineering (New): Multi-choice test that measures the knowledge of flight mechanics, space dynamics, aerodynamics, structures and propulsion.",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 10",
+    "duration_minutes": 10,
+    "test_type": "K"
+  },
+  {
+    "name": "Aerospace Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/aerospace-engineering-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "Aerospace Engineering (New): Multi-choice test that measures the conceptual knowledge of aerodynamics, aircraft systems and instrumentation, flight dynamics, space dynamics and avionics.",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 10",
+    "duration_minutes": 10,
+    "test_type": "K"
+  },
+  {
+    "name": "Agile Software Development",
+    "url": "https://www.shl.com/products/product-catalog/view/agile-software-development/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "Agile Software Development: Multi-choice test that measures the knowledge of agile methodology, scrum, feature driven software development, incremental and iterative development and…",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "7 min",
+    "duration_minutes": 7,
+    "test_type": "K"
+  },
+  {
+    "name": "Agile Testing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/agile-testing-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "Agile Testing (New): Multi-choice test that measures the knowledge of tools, techniques and processes involved in the Agile testing methodology.",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 13",
+    "duration_minutes": 13,
+    "test_type": "K"
+  },
+  {
+    "name": "AI Skills",
+    "url": "https://www.shl.com/products/product-catalog/view/ai-skills/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "AI Skills : The AI Skills assessment measures the skills that help candidates successfully leverage AI in their work.",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 16 ",
+    "duration_minutes": 16,
+    "test_type": "P"
+  },
+  {
+    "name": "Amazon Web Services (AWS) Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/amazon-web-services-aws-development-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "Amazon Web Services (AWS) Development (New): Multi-choice test that measures the knowledge of AWS delivery process, monitoring, metrics, logging, security, validation and scalability.",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 6",
+    "duration_minutes": 6,
+    "test_type": "K"
+  },
+  {
+    "name": "Android Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/android-development-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "Android Development (New): Multi-choice test that measures the knowledge of UI components for an Android device, services and alerts, animation and media apps, application components…",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 7",
+    "duration_minutes": 7,
+    "test_type": "K"
+  },
+  {
+    "name": "Angular 6 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/angular-6-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "Angular 6 (New): Multi-choice test that measures the knowledge of the basic components and modules of Angular 6 and concepts like data binding, dependency injection, CRUD with…",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 11",
+    "duration_minutes": 11,
+    "test_type": "K"
+  },
+  {
+    "name": "AngularJS (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/angularjs-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "AngularJS (New): Multi-choice test that measures the knowledge of AngularJS architecture, forms, directives, filters, controllers, routing and testing.",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 9",
+    "duration_minutes": 9,
+    "test_type": "K"
+  },
+  {
+    "name": "Apache Hadoop (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-hadoop-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "Apache Hadoop (New): Multi-choice test that measures the knowledge of basic concepts of Hadoop, commands, HDFS and MapReduce.",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 7",
+    "duration_minutes": 7,
+    "test_type": "K"
+  },
+  {
+    "name": "District/Regional Manager Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/districtregional-manager-solution/",
+    "test_types": [
+      "A",
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "District/Regional Manager Solution: The District/Regional Manager solution is for mid- to senior-level managerial positions that oversee multiple stores within a defined area.  Sample tasks for…",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 65",
+    "duration_minutes": 65,
+    "test_type": "A"
+  },
+  {
+    "name": "Entry Level Cashier 7.1 (Americas)",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-cashier-7-1-%28americas%29/",
+    "test_types": [
+      "B",
+      "P",
+      "A"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "Entry Level Cashier 7.1 (Americas): The Entry level Cashier 7.1 solution is for entry-level retail positions in which employees receive payment in the form of cash, check, or credit cards for…",
+    "job_levels": "",
+    "languages": "English (Global)",
+    "duration_text": "Approximate Completion Time in minutes = 18",
+    "duration_minutes": 18,
+    "test_type": "B"
+  },
+  {
+    "name": "Entry Level Cashier 7.1 (International)",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-cashier-7-1-%28international%29/",
+    "test_types": [
+      "A",
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Entry Level Customer Service 7.1 (Americas)",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-service-7-1-%28americas%29/",
+    "test_types": [
+      "C",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Entry Level Customer Service 7.1 (International)",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-service-%28retail-and-cc%29-7-1/",
+    "test_types": [
+      "C",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Entry Level Customer Service 7.1 (South Africa)",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-service-7-1-%28south-africa%29/",
+    "test_types": [
+      "C",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Entry level Sales 7.1 (Americas)",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-sales-7-1-%28americas%29/",
+    "test_types": [
+      "B",
+      "C",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Entry level Sales 7.1 (International)",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-sales-7-1/",
+    "test_types": [
+      "P",
+      "B",
+      "C"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Entry Level Sales Sift Out 7.1",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-sales-sift-out-7-1/",
+    "test_types": [
+      "C",
+      "P",
+      "B"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Event Sales Manager Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/event-sales-manager-solution/",
+    "test_types": [
+      "S",
+      "A",
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Executive - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/executive-short-form/",
+    "test_types": [
+      "A",
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Financial Professional - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/financial-professional-short-form/",
+    "test_types": [
+      "A",
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Apache Hadoop Extensions (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-hadoop-extensions-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Apache HBase (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-hbase-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Apache Hive (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-hive-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Apache Kafka (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-kafka-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Apache Pig (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-pig-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Apache Spark (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-spark-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "ASP .NET with C# (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/asp-net-with-c-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "ASP.NET 4.5",
+    "url": "https://www.shl.com/products/product-catalog/view/asp-net-4-5/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Assessment and Development Center Exercises",
+    "url": "https://www.shl.com/products/product-catalog/view/assessment-and-development-center-exercises/",
+    "test_types": [],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Automata - Fix (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-fix-new/",
+    "test_types": [
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Automata - SQL (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-sql-new/",
+    "test_types": [
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Automata (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-new/",
+    "test_types": [
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Financial Services Representative Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/financial-services-representative-solution/",
+    "test_types": [
+      "A",
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Front Desk Associate Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/front-desk-associate-solution/",
+    "test_types": [
+      "A",
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Gaming Associate Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/gaming-associate-solution/",
+    "test_types": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Gaming Manager Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/gaming-manager-solution/",
+    "test_types": [
+      "S",
+      "A",
+      "B",
+      "K",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "General Entry Level - All Industries 7.0 Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/general-entry-level-all-industries-7-0-solution/",
+    "test_types": [
+      "B"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "General Entry Level - All Industries 7.1 Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/general-entry-level-all-industries-7-1-solution/",
+    "test_types": [
+      "B"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "General Entry Level - All Industries 7.1(Americas)",
+    "url": "https://www.shl.com/products/product-catalog/view/general-entry-level-all-industries-7-1%28americas%29/",
+    "test_types": [
+      "B"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "General Entry Level – Data Entry 7.0 Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/general-entry-level-data-entry-7-0-solution/",
+    "test_types": [
+      "B",
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Graduate + 8.0 Job Focused Assessment",
+    "url": "https://www.shl.com/products/product-catalog/view/graduate-8-0-job-focused-assessment/",
+    "test_types": [
+      "A",
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Graduate 7.1 Job Focused Assessment",
+    "url": "https://www.shl.com/products/product-catalog/view/graduate-7-1-job-focused-assessment/",
+    "test_types": [
+      "B",
+      "C"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Graduate 8.0 Job Focused Assessment",
+    "url": "https://www.shl.com/products/product-catalog/view/graduate-8-0-job-focused-assessment-4228/",
+    "test_types": [
+      "P",
+      "B"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Guest Service Team 7.0 Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/guest-service-team-7-0-solution/",
+    "test_types": [
+      "B"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Automata Data Science (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-data-science-new/",
+    "test_types": [
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Automata Data Science Pro (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-data-science-pro-new/",
+    "test_types": [
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Automata Front End",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-front-end/",
+    "test_types": [
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Automata Pro (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-pro-new/",
+    "test_types": [
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Automata Selenium",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-selenium/",
+    "test_types": [
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Automation Anywhere RPA Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automation-anywhere-rpa-development-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Automotive Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automotive-engineering-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Basic Biology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/basic-biology-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Basic Computer Literacy (Windows 10) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/basic-computer-literacy-windows-10-new/",
+    "test_types": [
+      "S",
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Basic Statistics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/basic-statistics-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Biochemistry (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/biochemistry-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Biotech Lab Techniques (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/biotech-lab-techniques-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Guest Services Associate Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/guest-services-associate-solution/",
+    "test_types": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Healthcare Aide 7.0 Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/healthcare-aide-7-0-solution/",
+    "test_types": [
+      "B"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Healthcare Call Center Agent Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/healthcare-call-center-agent-solution/",
+    "test_types": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Healthcare Service Associate Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/healthcare-service-associate-solution/",
+    "test_types": [
+      "A",
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Healthcare Support Specialist Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/healthcare-support-specialist-solution/",
+    "test_types": [
+      "A",
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Home Health Aide Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/home-health-aide-solution/",
+    "test_types": [
+      "A",
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Hospitality Manager Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/hospitality-manager-solution/",
+    "test_types": [
+      "A",
+      "B",
+      "K",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Host Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/host-solution/",
+    "test_types": [
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Industrial - Entry Level 7.0 Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/industrial-entry-level-7-0-solution/",
+    "test_types": [
+      "B"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Industrial - Entry Level 7.1 (Americas)",
+    "url": "https://www.shl.com/products/product-catalog/view/industrial-entry-level-7-1-%28americas%29/",
+    "test_types": [
+      "B"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Industrial - Entry Level 7.1 (International)",
+    "url": "https://www.shl.com/products/product-catalog/view/industrial-entry-level-7-1-%28international%29/",
+    "test_types": [
+      "B"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Industrial - Professional and Skilled 7.0 Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/industrial-professional-and-skilled-7-0-solution/",
+    "test_types": [
+      "A",
+      "B"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "BizTalk (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/biztalk-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Business Communication (adaptive)",
+    "url": "https://www.shl.com/products/product-catalog/view/business-communication-adaptive/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Business Communications",
+    "url": "https://www.shl.com/products/product-catalog/view/business-communications/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "C Programming (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/c-programming-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "C# Programming (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/c-programming-new-4039/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "C++ Programming (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/c-programming-new-4122/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Cardiology and Diabetes Management (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/cardiology-and-diabetes-management-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Ceramic Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ceramic-engineering-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Chemical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/chemical-engineering-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Cisco AppDynamics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/cisco-appdynamics-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Civil Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/civil-engineering-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Cloud Computing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/cloud-computing-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Industrial - Semi-skilled 7.1 (Americas)",
+    "url": "https://www.shl.com/products/product-catalog/view/industrial-semi-skilled-7-1-%28americas%29/",
+    "test_types": [
+      "B"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Industrial - Semi-skilled 7.1 (International)",
+    "url": "https://www.shl.com/products/product-catalog/view/industrial-semi-skilled-7-1-%28international%29/",
+    "test_types": [
+      "B"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Industrial Professional and Skilled 7.1 (Americas)",
+    "url": "https://www.shl.com/products/product-catalog/view/industrial-professional-and-skilled-7-1-%28americas%29/",
+    "test_types": [
+      "A",
+      "B"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Industrial Professional and Skilled 7.1 Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/industrial-professional-and-skilled-7-1-solution/",
+    "test_types": [
+      "A",
+      "B"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Installation and Repair Technician Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/installation-and-repair-technician-solution/",
+    "test_types": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Insurance Account Manager Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/insurance-account-manager-solution/",
+    "test_types": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Insurance Administrative Assistant Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/insurance-administrative-assistant-solution/",
+    "test_types": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Insurance Agent Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/insurance-agent-solution/",
+    "test_types": [
+      "A",
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Insurance Director Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/insurance-director-solution/",
+    "test_types": [
+      "A",
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Insurance Sales Manager Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/insurance-sales-manager-solution/",
+    "test_types": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Manager - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/manager-short-form/",
+    "test_types": [
+      "A",
+      "B",
+      "K",
+      "P",
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Manager + 7.0 Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/manager-7-0-solution-3955/",
+    "test_types": [
+      "A",
+      "B",
+      "C"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "COBOL Programming (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/cobol-programming-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Computer Science (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/computer-science-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Contact Center Call Simulation (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/contact-center-call-simulation-new/",
+    "test_types": [
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Conversational Multichat Simulation",
+    "url": "https://www.shl.com/products/product-catalog/view/conversational-multichat-simulation/",
+    "test_types": [
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Core Java (Advanced Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/core-java-advanced-level-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Core Java (Entry Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/core-java-entry-level-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Count Out The Money",
+    "url": "https://www.shl.com/products/product-catalog/view/count-out-the-money/",
+    "test_types": [
+      "K",
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "CSS3 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/css3-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Culinary Skills (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/culinary-skills-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Customer Service Phone Simulation",
+    "url": "https://www.shl.com/products/product-catalog/view/customer-service-phone-simulation/",
+    "test_types": [
+      "B",
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Customer Service Phone Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/customer-service-phone-solution/",
+    "test_types": [
+      "B",
+      "P",
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Cyber Risk (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/cyber-risk-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Manager + 7.1 (Americas)",
+    "url": "https://www.shl.com/products/product-catalog/view/manager-7-1-solution-4242/",
+    "test_types": [
+      "B",
+      "C",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Manager + 7.1 (International)",
+    "url": "https://www.shl.com/products/product-catalog/view/manager-7-1-%28international%29/",
+    "test_types": [
+      "B",
+      "C",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Manager 7.0 Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/manager-7-0-solution/",
+    "test_types": [
+      "B",
+      "C"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Manager 7.1 (Americas)",
+    "url": "https://www.shl.com/products/product-catalog/view/manager-7-1-%28americas%29/",
+    "test_types": [
+      "B",
+      "C",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Manager 7.1 (International)",
+    "url": "https://www.shl.com/products/product-catalog/view/manager-7-1-solution/",
+    "test_types": [
+      "B",
+      "C",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Manager 8.0 JFA",
+    "url": "https://www.shl.com/products/product-catalog/view/manager-8-0-jfa/",
+    "test_types": [
+      "B",
+      "K",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Manager 8.0+ JFA",
+    "url": "https://www.shl.com/products/product-catalog/view/manager-8-0-jfa-4310/",
+    "test_types": [
+      "B",
+      "K",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Manufacturing Production Team Member",
+    "url": "https://www.shl.com/products/product-catalog/view/manufacturing-production-team-member/",
+    "test_types": [
+      "A",
+      "B"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Manufacturing Skilled Maintenance Worker",
+    "url": "https://www.shl.com/products/product-catalog/view/manufacturing-skilled-maintenance-worker/",
+    "test_types": [
+      "A",
+      "B"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Network Engineer/Analyst Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/network-engineeranalyst-solution/",
+    "test_types": [
+      "P",
+      "S",
+      "K",
+      "B",
+      "A"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Nurse Leader Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/nurse-leader-solution/",
+    "test_types": [
+      "S",
+      "A",
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Nurse Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/nurse-solution/",
+    "test_types": [
+      "P",
+      "A",
+      "B"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Data Entry (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/data-entry-new/",
+    "test_types": [
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Data Entry Alphanumeric Split Screen - US",
+    "url": "https://www.shl.com/products/product-catalog/view/data-entry-alphanumeric-split-screen-us/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Data Entry Numeric Split Screen - US",
+    "url": "https://www.shl.com/products/product-catalog/view/data-entry-numeric-split-screen-us/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Data Entry Ten Key Split Screen",
+    "url": "https://www.shl.com/products/product-catalog/view/data-entry-ten-key-split-screen/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Data Science (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/data-science-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Data Warehousing Concepts",
+    "url": "https://www.shl.com/products/product-catalog/view/data-warehousing-concepts/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Dependability and Safety Instrument (DSI)",
+    "url": "https://www.shl.com/products/product-catalog/view/dependability-and-safety-instrument-dsi/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Dermatology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/dermatology-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Desktop Support (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/desktop-support-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Digital Advertising (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/digital-advertising-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Digital Readiness Development Report - IC",
+    "url": "https://www.shl.com/products/product-catalog/view/digital-readiness-development-report/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Digital Readiness Development Report - Manager",
+    "url": "https://www.shl.com/products/product-catalog/view/digital-readiness-development-report-manager/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Nursing Assistant Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/nursing-assistant-solution/",
+    "test_types": [
+      "A",
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Personal Banker - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/personal-banker-short-form/",
+    "test_types": [
+      "A",
+      "B",
+      "K",
+      "P",
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Phone Banker - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/phone-banker-short-form/",
+    "test_types": [
+      "A",
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Prep/Line Cook Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/prepline-cook-solution/",
+    "test_types": [
+      "A",
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Professional + 7.0 Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/professional-7-0-solution-3958/",
+    "test_types": [
+      "A",
+      "B",
+      "C"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Professional + 7.1 (Americas)",
+    "url": "https://www.shl.com/products/product-catalog/view/professional-7-1-%28americas%29/",
+    "test_types": [
+      "B",
+      "C",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Professional + 7.1 (International)",
+    "url": "https://www.shl.com/products/product-catalog/view/professional-7-1-solution/",
+    "test_types": [
+      "B",
+      "C",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Professional 7.0 Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/professional-7-0-solution/",
+    "test_types": [
+      "B",
+      "C"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Professional 7.1 (International)",
+    "url": "https://www.shl.com/products/product-catalog/view/professional-7-1-solution-4247/",
+    "test_types": [
+      "C",
+      "B"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Professional 8.0 JFA",
+    "url": "https://www.shl.com/products/product-catalog/view/professional-8-0-jfa/",
+    "test_types": [
+      "B",
+      "K",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Professional/Individual Contributor - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/professionalindividual-contributor-short-form/",
+    "test_types": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Project Manager - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/project-manager-short-form/",
+    "test_types": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Docker (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/docker-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Dojo (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/dojo-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Drupal (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/drupal-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "DSI v1.1 Interpretation Report",
+    "url": "https://www.shl.com/products/product-catalog/view/dsi-v1-1-interpretation-report/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Econometrics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/econometrics-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Economics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/economics-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Electrical and Electronics Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/electrical-and-electronics-engineering-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Electrical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/electrical-engineering-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Electronics & Telecommunications Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/electronics-and-telecommunications-engineering-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Electronics and Embedded Systems Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/electronics-and-embedded-systems-engineering-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Electronics and Semiconductor Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/electronics-and-semiconductor-engineering-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "English Comprehension (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/english-comprehension-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Proof Operator - Processing Specialist -Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/proof-operator-processing-specialist-short-form/",
+    "test_types": [
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Reservation Agent Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/reservation-agent-solution/",
+    "test_types": [
+      "A",
+      "P",
+      "S",
+      "B"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Restaurant Manager Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/restaurant-manager-solution/",
+    "test_types": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Restaurant Supervisor Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/restaurant-supervisor-solution/",
+    "test_types": [
+      "A",
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Retail Consultant Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/retail-consultant-solution/",
+    "test_types": [
+      "A",
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Retail Manager w/ Sales Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/retail-manager-w-sales-solution/",
+    "test_types": [
+      "A",
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Retail Sales Associate Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/retail-sales-associate-solution/",
+    "test_types": [
+      "A",
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Sales Director Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-director-solution/",
+    "test_types": [
+      "A",
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Sales Engineer Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-engineer-solution/",
+    "test_types": [
+      "A",
+      "B",
+      "K",
+      "P",
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Sales Manager Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-manager-solution/",
+    "test_types": [
+      "A",
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Sales Professional 7.0 Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-professional-7-0-solution/",
+    "test_types": [
+      "C",
+      "B"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Sales Professional 7.1 (Americas)",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-professional-7-1-%28americas%29/",
+    "test_types": [
+      "B",
+      "C"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Enterprise Java Beans (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/enterprise-java-beans-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Enterprise Leadership Report 1.0",
+    "url": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Enterprise Leadership Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report-2-0/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Entry Level Cashier Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-cashier-solution/",
+    "test_types": [
+      "C",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Entry Level Customer Serv-Retail & Contact Center",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-serv-retail-and-contact-center/",
+    "test_types": [
+      "P",
+      "C"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Entry Level Customer Service (General) Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-service-general-solution/",
+    "test_types": [
+      "C",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Entry Level Hotel Front Desk Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-hotel-front-desk-solution/",
+    "test_types": [
+      "C",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Entry Level Sales Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-sales-solution/",
+    "test_types": [
+      "C",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Entry Level Technical Support Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-technical-support-solution/",
+    "test_types": [
+      "P",
+      "C"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "ETL Testing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/etl-testing-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Executive Scenarios",
+    "url": "https://www.shl.com/products/product-catalog/view/executive-scenarios/",
+    "test_types": [
+      "B"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Executive Scenarios Narrative Report",
+    "url": "https://www.shl.com/products/product-catalog/view/executive-scenarios-narrative-report/",
+    "test_types": [
+      "B"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Sales Professional Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-professional-solution/",
+    "test_types": [
+      "A",
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Sales Representative Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-representative-solution/",
+    "test_types": [
+      "A",
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Sales Supervisor Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-supervisor-solution/",
+    "test_types": [
+      "A",
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Sales Support Specialist Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-support-specialist-solution/",
+    "test_types": [
+      "A",
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Senior Insurance Agent Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/senior-insurance-agent-solution/",
+    "test_types": [
+      "A",
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Senior Sales Professional Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/senior-sales-professional-solution/",
+    "test_types": [
+      "A",
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Server Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/server-solution/",
+    "test_types": [
+      "B",
+      "A",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Service Associate Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/service-associate-solution/",
+    "test_types": [
+      "A",
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Service Supervisor Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/service-supervisor-solution/",
+    "test_types": [
+      "A",
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Stock Clerk Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/stock-clerk-solution/",
+    "test_types": [
+      "A",
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Store Manager 7.0 Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/store-manager-7-0-solution/",
+    "test_types": [
+      "B",
+      "C"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Store Manager 7.1 (Americas)",
+    "url": "https://www.shl.com/products/product-catalog/view/store-manager-7-1-%28americas%29/",
+    "test_types": [
+      "B",
+      "C"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Executive Scenarios Profile Report",
+    "url": "https://www.shl.com/products/product-catalog/view/executive-scenarios-profile-report/",
+    "test_types": [
+      "B"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "ExpressJS (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/expressjs-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Filing - Names (R1)",
+    "url": "https://www.shl.com/products/product-catalog/view/filing-names-r1/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Filing - Numbers",
+    "url": "https://www.shl.com/products/product-catalog/view/filing-numbers/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Financial Accounting (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/financial-accounting-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Financial and Banking Services (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/financial-and-banking-services-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Fire Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/fire-engineering-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Following Instructions v1 - UK (R1)",
+    "url": "https://www.shl.com/products/product-catalog/view/following-instructions-v1-uk-r1/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Following Instructions v1 - US (R2)",
+    "url": "https://www.shl.com/products/product-catalog/view/following-instructions-v1-us-r2/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Food and Beverage Services (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/food-and-beverage-services-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Food Science (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/food-science-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Front Office Management (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/front-office-management-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Store Manager 7.1 (International)",
+    "url": "https://www.shl.com/products/product-catalog/view/store-manager-7-1-%28international%29/",
+    "test_types": [
+      "C",
+      "B"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Store Manager Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/store-manager-solution/",
+    "test_types": [
+      "A",
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Supervisor - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/supervisor-short-form/",
+    "test_types": [
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Supervisor 7.0 Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/supervisor-7-0-solution/",
+    "test_types": [
+      "B",
+      "C"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Supervisor 7.1 (Americas)",
+    "url": "https://www.shl.com/products/product-catalog/view/supervisor-7-1-%28americas%29/",
+    "test_types": [
+      "B",
+      "C",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Supervisor 7.1 (International)",
+    "url": "https://www.shl.com/products/product-catalog/view/supervisor-7-1-%28international%29/",
+    "test_types": [
+      "P",
+      "C",
+      "B"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Support Associate Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/support-associate-solution/",
+    "test_types": [
+      "A",
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Support Supervisor Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/support-supervisor-solution/",
+    "test_types": [
+      "A",
+      "P",
+      "S",
+      "B"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Technical Sales Associate Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/technical-sales-associate-solution/",
+    "test_types": [
+      "A",
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Technician/Technologist Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/techniciantechnologist-solution/",
+    "test_types": [
+      "A",
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Technology Professional 8.0 Job Focused Assessment",
+    "url": "https://www.shl.com/products/product-catalog/view/technology-professional-8-0-job-focused-assessment/",
+    "test_types": [
+      "C",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Telenurse Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/telenurse-solution/",
+    "test_types": [
+      "A",
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Fundamentals of Chemistry (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/fundamentals-of-chemistry-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Fundamentals of Physics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/fundamentals-of-physics-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "General Diseases (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/general-diseases-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Geoinformatics Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/geoinformatics-engineering-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Geoscience Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/geoscience-engineering-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "GIT (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/git-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Global Skills Assessment",
+    "url": "https://www.shl.com/products/product-catalog/view/global-skills-assessment/",
+    "test_types": [
+      "C",
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Graduate Scenarios",
+    "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios/",
+    "test_types": [
+      "B"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Graduate Scenarios Narrative Report",
+    "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios-narrative-report/",
+    "test_types": [
+      "B"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Graduate Scenarios Profile Report",
+    "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios-profile-report/",
+    "test_types": [
+      "B"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Hibernate (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/hibernate-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "HIPAA (Security)",
+    "url": "https://www.shl.com/products/product-catalog/view/hipaa-security/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Teller 7.0",
+    "url": "https://www.shl.com/products/product-catalog/view/teller-7-0/",
+    "test_types": [
+      "B",
+      "K",
+      "P",
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Teller with Sales - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/teller-with-sales-short-form/",
+    "test_types": [
+      "A",
+      "B",
+      "K",
+      "P",
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Transcriptionist Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/transcriptionist-solution/",
+    "test_types": [
+      "A",
+      "B",
+      "K",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Workplace Safety - Individual 7.0 Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/workplace-safety-individual-7-0-solution/",
+    "test_types": [
+      "B"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Workplace Safety - Individual 7.1 (Americas)",
+    "url": "https://www.shl.com/products/product-catalog/view/workplace-safety-individual-7-1-solution/",
+    "test_types": [
+      "B"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Workplace Safety - Team 7.0 Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/workplace-safety-team-7-0-solution/",
+    "test_types": [
+      "B"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Workplace Safety - Team 7.1 (Americas)",
+    "url": "https://www.shl.com/products/product-catalog/view/workplace-safety-team-7-1-%28americas%29/",
+    "test_types": [
+      "B",
+      "C",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Workplace Safety - Team 7.1 (International)",
+    "url": "https://www.shl.com/products/product-catalog/view/workplace-safety-team-7-1-solution/",
+    "test_types": [
+      "B",
+      "C",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Workplace Safety Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/workplace-safety-solution/",
+    "test_types": [
+      "B",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "HiPo Assessment Report 1.0",
+    "url": "https://www.shl.com/products/product-catalog/view/hipo-assessment-report-1-0/",
+    "test_types": [
+      "C",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "HiPo Assessment Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/hipo-assessment-report-2-0/",
+    "test_types": [
+      "C",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "HiPo Unlocking Potential Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/hipo-unlocking-potential-report-2-0/",
+    "test_types": [
+      "C"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Housekeeping (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/housekeeping-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "HTML/CSS (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/htmlcss-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "HTML5 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/html5-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Human Resources (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/human-resources-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "IBM DataStage (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ibm-datastage-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "IBM Sterling Order Management System (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ibm-sterling-order-management-system-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Industrial Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/industrial-engineering-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Informatica (Architecture) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/informatica-architecture-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Informatica (Developer) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/informatica-developer-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Instrumentation Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/instrumentation-engineering-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Interpersonal Communications",
+    "url": "https://www.shl.com/products/product-catalog/view/interpersonal-communications/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Interviewing and Hiring Concepts (U.S.)",
+    "url": "https://www.shl.com/products/product-catalog/view/interviewing-and-hiring-concepts-u-s/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "iOS Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ios-development-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "ITIL (IT Infrastructure Library) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/itil-it-infrastructure-library-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Java 2 Platform Enterprise Edition 1.4 Fundamental",
+    "url": "https://www.shl.com/products/product-catalog/view/java-2-platform-enterprise-edition-1-4-fundamental/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Java 8 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/java-8-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Java Design Patterns (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/java-design-patterns-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Java Frameworks (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/java-frameworks-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Java Platform Enterprise Edition 7 (Java EE 7)",
+    "url": "https://www.shl.com/products/product-catalog/view/java-platform-enterprise-edition-7-java-ee-7/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Java Web Services (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/java-web-services-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "JavaScript (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/javascript-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Jenkins (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/jenkins-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Job Control Language (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/job-control-language-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "jQuery (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/jquery-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Kubernetes (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/kubernetes-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Linux Administration (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/linux-administration-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Linux Operating System",
+    "url": "https://www.shl.com/products/product-catalog/view/linux-operating-system/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Linux Programming (General)",
+    "url": "https://www.shl.com/products/product-catalog/view/linux-programming-general/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Load Runner (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/load-runner-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Management Scenarios",
+    "url": "https://www.shl.com/products/product-catalog/view/management-scenarios/",
+    "test_types": [
+      "B"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Managerial Scenarios Candidate Report",
+    "url": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-candidate-report/",
+    "test_types": [
+      "B"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Managerial Scenarios Narrative Report",
+    "url": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-narrative-report/",
+    "test_types": [
+      "B"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Managerial Scenarios Profile Report",
+    "url": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-profile-report/",
+    "test_types": [
+      "B"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Manual Testing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/manual-testing-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Manufac. & Indust. - Mechanical & Vigilance 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/mechanical-and-vigilance-focus-8-0/",
+    "test_types": [
+      "A",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Manufac. & Indust. - Safety & Dependability 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/safety-and-dependability-focus-8-0/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Manufacturing & Industrial - Essential Focus 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/essential-focus-8-0/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Manufacturing & Industrial - Mechanical Focus 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/mechanical-focus-8-0/",
+    "test_types": [
+      "A",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Manufacturing & Industrial - Vigilance Focus 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/vigilance-focus-8-0/",
+    "test_types": [
+      "A",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Marketing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/marketing-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Maven (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/maven-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Mechanical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mechanical-engineering-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Mechatronics Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mechatronics-engineering-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Medical Terminology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/medical-terminology-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Metallurgical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/metallurgical-engineering-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "MFS 360 Enterprise Leadership Report",
+    "url": "https://www.shl.com/products/product-catalog/view/mfs-360-enterprise-leadership-report/",
+    "test_types": [],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "MFS 360 UCF Group Report",
+    "url": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-group-report/",
+    "test_types": [],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "MFS 360 UCF Performance Potential Dev Tips Report",
+    "url": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-performance-potential-dev-tips-report/",
+    "test_types": [],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "MFS 360 UCF Standard Report",
+    "url": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-standard-report/",
+    "test_types": [],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Micro Focus Unified Functional Testing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/micro-focus-unified-functional-testing-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Microservices (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microservices-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Microsoft Dynamics Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-dynamics-development-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Microsoft Excel 365 - Essentials (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-essentials-new/",
+    "test_types": [
+      "K",
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Microsoft Excel 365 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-new/",
+    "test_types": [
+      "K",
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Microsoft Outlook 2013 (adaptive)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-outlook-2013-adaptive/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Microsoft PowerPoint 365 - Essentials (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-powerpoint-365-essentials-new/",
+    "test_types": [
+      "K",
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Microsoft SQL Server 2014 Programming",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-sql-server-2014-programming/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Microsoft Windows Server 2012 Administration",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-windows-server-2012-administration/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Microsoft Word 365 - Essentials (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-essentials-new/",
+    "test_types": [
+      "K",
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Microsoft Word 365 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-new/",
+    "test_types": [
+      "S",
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Mineral Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mineral-engineering-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Mining Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mining-engineering-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Mobility (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mobility-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Molecular Biology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/molecular-biology-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "MongoDB (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mongodb-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Motivation Questionnaire MQM5",
+    "url": "https://www.shl.com/products/product-catalog/view/motivation-questionnaire-mqm5/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "MQ Candidate Motivation Report",
+    "url": "https://www.shl.com/products/product-catalog/view/mq-candidate-motivation-report/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "MQ Employee Motivation Report",
+    "url": "https://www.shl.com/products/product-catalog/view/mq-employee-motivation-report/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "MQ Motivation Report Pack",
+    "url": "https://www.shl.com/products/product-catalog/view/mq-motivation-report-pack/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "MQ Profile",
+    "url": "https://www.shl.com/products/product-catalog/view/mq-profile/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "MS Access (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-access-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "MS Excel (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-excel-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "MS Office Basic Computer Literacy (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-office-basic-computer-literacy-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "MS Office Basic Computer Literacy (Sim) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-office-basic-computer-literacy-sim-new/",
+    "test_types": [
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "MS PowerPoint (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-powerpoint-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "MS Word (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-word-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "MuleSoft Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mulesoft-development-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Multitasking Ability",
+    "url": "https://www.shl.com/products/product-catalog/view/multitasking-ability/",
+    "test_types": [
+      "A",
+      "K",
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Networking and Implementation (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/networking-and-implementation-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Node.js (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/node-js-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Nursing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/nursing-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Occupational Personality Questionnaire OPQ32r",
+    "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Operations Management (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/operations-management-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "OPQ Candidate Plus Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-candidate-plus-report/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "OPQ Candidate Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-candidate-report-2-0/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "OPQ Emotional Intelligence Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-emotional-intelligence-report/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "OPQ Leadership Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-leadership-report/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "OPQ Manager Plus Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-manager-plus-report/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "OPQ Manager Plus Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-manager-plus-report-2-0/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "OPQ Maximising your Learning Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-maximising-your-learning-report/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "OPQ MQ Sales Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-mq-sales-report/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "OPQ Premium Plus Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-premium-plus-report/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "OPQ Premium Plus Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-premium-plus-report-2-0/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "OPQ Profile Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-profile-report/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "OPQ Team Impact Group Development Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-team-impact-group-development-report/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "OPQ Team Impact Individual Development Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-team-impact-individual-development-report/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "OPQ Team Impact Selection Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-team-impact-selection-report/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "OPQ Team Types & Leadership Styles Profile",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-team-types-and-leadership-styles-profile/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "OPQ Team Types and Leadership Styles Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-team-types-and-leadership-styles-report/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "OPQ UCF Development Action Planner Report 1.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-ucf-development-action-planner-report/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "OPQ UCF Development Action Planner Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-ucf-development-action-planner-report-2-0/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "OPQ Universal Competency Report 1.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-universal-competency-report/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "OPQ Universal Competency Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-universal-competency-report-2-0/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "OPQ User and Managers Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-user-and-managers-report/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "OPQ User Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-user-report/",
+    "test_types": [
+      "P",
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Oracle DBA (Advanced Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/oracle-dba-advanced-level-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Oracle DBA (Entry Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/oracle-dba-entry-level-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Oracle PL/SQL (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/oracle-plsql-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Oracle WebLogic Server (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/oracle-weblogic-server-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Organic Chemistry (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/organic-chemistry-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Paint Technology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/paint-technology-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Pediatrics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pediatrics-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Pega Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pega-development-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Perl (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/perl-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Petrochemical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/petrochemical-engineering-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Petroleum Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/petroleum-engineering-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Pharmaceutical Analysis (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pharmaceutical-analysis-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Pharmaceutical Chemistry (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pharmaceutical-chemistry-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Pharmaceutical Science (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pharmaceutical-science-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Pharmaceutics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pharmaceutics-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Pharmacology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pharmacology-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "PHP (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/php-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "PJM Development Report",
+    "url": "https://www.shl.com/products/product-catalog/view/pjm-development-report/",
+    "test_types": [
+      "C",
+      "A",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "PJM Selection Report",
+    "url": "https://www.shl.com/products/product-catalog/view/pjm-selection-report/",
+    "test_types": [
+      "A",
+      "C",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Polymer Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/polymer-engineering-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Power Electronics and Drives (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/power-electronics-and-drives-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Power System Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/power-system-engineering-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Prism (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/prism-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Production and Industrial Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/production-and-industrial-engineering-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Production Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/production-engineering-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Programming Concepts",
+    "url": "https://www.shl.com/products/product-catalog/view/programming-concepts/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Project Management (2013)",
+    "url": "https://www.shl.com/products/product-catalog/view/project-management-2013/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Proofreading v1",
+    "url": "https://www.shl.com/products/product-catalog/view/proofreading-v1/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Python (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/python-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "R Programming (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/r-programming-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "ReactJS (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/reactjs-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Reading Comprehension - English v1",
+    "url": "https://www.shl.com/products/product-catalog/view/reading-comprehension-english-v1/",
+    "test_types": [
+      "A"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Reading Comprehension - Spanish v1",
+    "url": "https://www.shl.com/products/product-catalog/view/reading-comprehension-spanish-v1/",
+    "test_types": [
+      "A"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Reading Comprehension v2",
+    "url": "https://www.shl.com/products/product-catalog/view/reading-comprehension-v2/",
+    "test_types": [
+      "A"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "RemoteWorkQ",
+    "url": "https://www.shl.com/products/product-catalog/view/remoteworkq/",
+    "test_types": [
+      "C"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "RemoteWorkQ Manager Report",
+    "url": "https://www.shl.com/products/product-catalog/view/remoteworkq-manager-report/",
+    "test_types": [
+      "C"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "RemoteWorkQ Participant Report",
+    "url": "https://www.shl.com/products/product-catalog/view/remoteworkq-participant-report/",
+    "test_types": [
+      "C"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "RESTful Web Services (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/restful-web-services-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Retail Sales and Service Simulation",
+    "url": "https://www.shl.com/products/product-catalog/view/retail-sales-and-service-simulation/",
+    "test_types": [
+      "B",
+      "K",
+      "S",
+      "A"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Reviewing Forms - US (R1)",
+    "url": "https://www.shl.com/products/product-catalog/view/reviewing-forms-us-r1/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Ruby (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ruby-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Ruby on Rails (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ruby-on-rails-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Sales & Service Phone Simulation",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-and-service-phone-simulation/",
+    "test_types": [
+      "S",
+      "B"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Sales & Service Phone Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-and-service-phone-solution/",
+    "test_types": [
+      "B",
+      "P",
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Sales Interview Guide",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-interview-guide/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Sales Profiler Cards",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-profiler-cards/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Sales Transformation 1.0 - Individual Contributor",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-individual-contributor/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Sales Transformation 2.0 - Individual Contributor",
+    "url": "https://www.shl.com/products/product-catalog/view/salestransformationreport2-0-individualcontributor/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Sales Transformation Report 1.0 - Sales Manager",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-sales-manager/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Sales Transformation Report 2.0 - Sales Manager",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-2-0-sales-manager/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Salesforce Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/salesforce-development-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "SAP ABAP (Advanced Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-abap-advanced-level-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "SAP ABAP (Intermediate Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-abap-intermediate-level-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "SAP Basis (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-basis-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "SAP Business Objects WebI (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-business-objects-webi-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "SAP BW (Business Warehouse) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-bw-business-warehouse-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "SAP HCM (Human Capital Management) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-hcm-human-capital-management-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "SAP Hybris (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-hybris-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "SAP Materials Management (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-materials-management-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "SAP SD (Sales and Distribution) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-sd-sales-and-distribution-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Search Engine Optimization (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/search-engine-optimization-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Selenium (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/selenium-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Shell Scripting (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/shell-scripting-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "SHL Verify Interactive - Inductive Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-inductive-reasoning/",
+    "test_types": [
+      "A",
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "SHL Verify Interactive – Deductive Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-deductive-reasoning/",
+    "test_types": [
+      "A",
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "SHL Verify Interactive – Numerical Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-numerical-reasoning/",
+    "test_types": [
+      "A",
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "SHL Verify Interactive G+",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-g/",
+    "test_types": [
+      "A"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "SHL Verify Interactive Numerical Calculation",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-numerical-calculation/",
+    "test_types": [
+      "A"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Siebel Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/siebel-development-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Smart Interview Live",
+    "url": "https://www.shl.com/products/product-catalog/view/smart-interview-live/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Smart Interview Live Coding",
+    "url": "https://www.shl.com/products/product-catalog/view/smart-interview-live-coding/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Smart Interview On Demand",
+    "url": "https://www.shl.com/products/product-catalog/view/smart-interview-on-demand/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Social Media (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/social-media-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Software Business Analysis",
+    "url": "https://www.shl.com/products/product-catalog/view/software-business-analysis/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "SonarQube (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sonarqube-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Spelling (U.S.) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/spelling-u-s-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Split Screen Typing Test - Form 1",
+    "url": "https://www.shl.com/products/product-catalog/view/split-screen-typing-test-form-1/",
+    "test_types": [
+      "A",
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Spring (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/spring-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "SQL (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sql-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "SQL Server (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sql-server-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "SQL Server Analysis Services (SSAS) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sql-server-analysis-services-%28ssas%29-%28new%29/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "SQL Server Integration Services (SSIS) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sql-server-integration-services-ssis-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "SQL Server Reporting Services (SSRS) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sql-server-reporting-services-ssrs-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Statistical Analysis System (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/statistical-analysis-system-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Struts (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/struts-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "SVAR - Spoken English (AUS)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-aus/",
+    "test_types": [
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "SVAR - Spoken English (Indian Accent)  (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-indian-accent-new/",
+    "test_types": [
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "SVAR - Spoken English (U.K.)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-u-k/",
+    "test_types": [
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "SVAR - Spoken English (US)  (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-us-new/",
+    "test_types": [
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "SVAR - Spoken French (Canadian) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-french-canadian-new/",
+    "test_types": [
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "SVAR - Spoken French (European) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-french-european-new/",
+    "test_types": [
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "SVAR - Spoken Spanish (Castilian) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-spanish-castilian-new/",
+    "test_types": [
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "SVAR - Spoken Spanish (North American) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-spanish-north-american-new/",
+    "test_types": [
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Swing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/swing-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Tableau (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/tableau-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Telecommunications Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/telecommunications-engineering-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Teradata Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/teradata-development-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Time Management (U.S.)",
+    "url": "https://www.shl.com/products/product-catalog/view/time-management-u-s/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Training Development",
+    "url": "https://www.shl.com/products/product-catalog/view/training-development/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Typing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/typing-new/",
+    "test_types": [
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "UiPath RPA Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/uipath-rpa-development-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Universal Competency Framework Interview Guide",
+    "url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-interview-guide/",
+    "test_types": [
+      "C",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Universal Competency Framework Job profiling guide",
+    "url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-job-profiling-guide/",
+    "test_types": [
+      "C",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Universal Competency Framework Profiler Cards (44)",
+    "url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-profiler-cards-44/",
+    "test_types": [
+      "C",
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "UNIX (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/unix-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "VB.NET (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/vb-net-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Verify - Deductive Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-deductive-reasoning/",
+    "test_types": [
+      "A"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Verify - Following Instructions",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-following-instructions/",
+    "test_types": [
+      "A"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Verify - G+",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-g/",
+    "test_types": [
+      "A"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Verify - General Ability Screen",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-general-ability-screen/",
+    "test_types": [
+      "A"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Verify - Inductive Reasoning (2014)",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-inductive-reasoning-2014/",
+    "test_types": [
+      "A"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Verify - Numerical Ability",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-numerical-ability/",
+    "test_types": [
+      "A"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Verify - Technical Checking - Next Generation",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-technical-checking-next-generation/",
+    "test_types": [
+      "A"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Verify - Verbal Ability - Next Generation",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-verbal-ability-next-generation/",
+    "test_types": [
+      "A"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Verify - Working with Information",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-working-with-information/",
+    "test_types": [
+      "A"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Verify G+ - Ability Test Report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-g-ability-test-report/",
+    "test_types": [
+      "A"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Verify G+ - Candidate Report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-g-candidate-report/",
+    "test_types": [
+      "A"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Verify Interactive Ability Report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-ability-report/",
+    "test_types": [
+      "A"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Verify Interactive G+ Candidate Report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-g-candidate-report/",
+    "test_types": [
+      "A"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Verify Interactive G+ Report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-g-report/",
+    "test_types": [
+      "A"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Verify Interactive Process Monitoring",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-process-monitoring/",
+    "test_types": [
+      "A"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Virtual Assessment and Development Centers",
+    "url": "https://www.shl.com/products/product-catalog/view/virtual-assessment-and-development-centers/",
+    "test_types": [
+      "P"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Visual Basic for Applications (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/visual-basic-for-applications-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Visual Comparison - UK",
+    "url": "https://www.shl.com/products/product-catalog/view/visual-comparison-uk/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Visual Comparison - US",
+    "url": "https://www.shl.com/products/product-catalog/view/visual-comparison-us/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "VLSI and Embedded Systems (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/vlsi-and-embedded-systems-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "What Is The Value - US",
+    "url": "https://www.shl.com/products/product-catalog/view/what-is-the-value-us/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Workplace Administration Skills (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/workplace-administration-skills-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Workplace Health and Safety (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/workplace-health-and-safety-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "WriteX - Email Writing (Customer Service) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-customer-service-new/",
+    "test_types": [
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "WriteX - Email Writing (Managerial) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-managerial-new/",
+    "test_types": [
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "WriteX - Email Writing (Sales) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-sales-new/",
+    "test_types": [
+      "B",
+      "S"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Written English v1",
+    "url": "https://www.shl.com/products/product-catalog/view/written-english-v1/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Written Spanish",
+    "url": "https://www.shl.com/products/product-catalog/view/written-spanish/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "Zabbix (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/zabbix-new/",
+    "test_types": [
+      "K"
+    ],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "360 Digital Report",
+    "url": "https://www.shl.com/products/product-catalog/view/360-digital-report/",
+    "test_types": [],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  },
+  {
+    "name": "360° Multi-Rater Feedback System (MFS)",
+    "url": "https://www.shl.com/products/product-catalog/view/360-multi-rater-feedback-system-mfs/",
+    "test_types": [],
+    "duration": "",
+    "remote_testing": false,
+    "adaptive": false,
+    "description": "",
+    "job_levels": "",
+    "languages": []
+  }
+]
