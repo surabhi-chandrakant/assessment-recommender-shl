@@ -114,23 +114,43 @@ def frontend():
 
 @app.route("/", methods=["GET"])
 def root():
-    """Root endpoint with API info."""
+    """Root — redirect to web UI."""
+    from flask import redirect
+    return redirect("/app")
+
+@app.route("/api", methods=["GET"])
+def api_info():
+    """API documentation."""
     return jsonify({
         "name": "SHL Assessment Recommendation API",
         "version": "1.0.0",
         "endpoints": {
-            "GET /health": "Health check",
-            "POST /recommend": "Get assessment recommendations",
+            "GET  /health": "Health check — returns status and assessment count",
+            "POST /recommend": "Get top-10 assessment recommendations",
+            "GET  /app": "Web UI",
         },
         "usage": {
             "url": "/recommend",
             "method": "POST",
+            "content_type": "application/json",
             "body": {"query": "Your job description or query here"},
-            "example": {
-                "query": "I am hiring Java developers who can collaborate with business teams"
-            }
+            "example_curl": "curl -X POST /recommend -H 'Content-Type: application/json' -d '{"query": "Java developer"}'"
         }
     }), 200
+
+@app.route("/recommend", methods=["GET"])
+def recommend_get():
+    """GET /recommend — friendly error pointing to correct usage."""
+    return jsonify({
+        "error": "Method Not Allowed",
+        "message": "This endpoint requires POST with a JSON body.",
+        "correct_usage": {
+            "method": "POST",
+            "content_type": "application/json",
+            "body": {"query": "your job description here"},
+            "example_curl": "curl -X POST {host}/recommend -H 'Content-Type: application/json' -d '{"query": "Java developer"}'"
+        }
+    }), 405
 
 
 if __name__ == "__main__":
